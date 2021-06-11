@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+  }
+  #texto1{
+    padding-top:30px;
+    text-align:center;
+    color:#000000;
+    font-family:Ubuntu;
+    line-height:40px;
+    font-weight:600;
+    font-size:40px;
+  }
+  #texto2{
+    padding:20px;
+    text-align:justify;
+    color:#000000;
+    font-family:Ubuntu;
+    line-height:20px;
+    font-weight:30px;
+  }
+  #audio{
+    float:center;
+    padding-top:20px;
+    padding-left:500px;
+  }
